@@ -27,7 +27,11 @@
 ## 📂 프로젝트 구조
 
 ```
-├── Config/ # 게임 설정 관련 구성 파일 ├── Source/ # C++ 소스코드 (캐릭터 클래스 등) ├── IfProject.uproject # 언리얼 프로젝트 파일 ├── README.md └── (Content/ 폴더는 별도 제공)
+├── Config/ # 게임 설정 관련 구성 파일
+├── Source/ # C++ 소스코드 (캐릭터 클래스 등)
+├── IfProject.uproject # 언리얼 프로젝트 파일
+├── README.md
+└── (Content/ 폴더는 별도 제공)
 ```
 
 ※ `Content/` 폴더는 용량 문제로 별도 제공됩니다. 아래 링크를 통해 다운로드해주세요.
